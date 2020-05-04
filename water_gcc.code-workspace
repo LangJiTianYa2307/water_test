@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+  ],
+  "settings": {
+    "files.associations": {
+      "ad_7606.h": "c",
+      "fml_dataacq.h": "c",
+      "fml_valvemanger.h": "c",
+      "freertos.h": "c",
+      "fml_realtime.h": "c",
+      "guitask.h": "c",
+      "hmi.h": "c",
+      "gui_head.h": "c",
+      "my_malloc.h": "c",
+      "math.h": "c",
+      "24c02.h": "c",
+      "universaldatatype.h": "c",
+      "gui_pressetdlg.h": "c",
+      "gui_mainframe.h": "c",
+      "type_traits": "c",
+      "limits": "c",
+      "gui_keyboarddlg.h": "c",
+      "string.h": "c",
+      "sys.h": "c",
+      "myiic.h": "c",
+      "fsmfunction.h": "c",
+      "fml_sdcard.h": "c",
+      "typedef.h": "c",
+      "queue.h": "c",
+      "key.h": "c",
+      "lwip_comm.h": "c",
+      "etharp.h": "c",
+      "opt.h": "c",
+      "rtos_timers.h": "c",
+      "bll_devicecontrol.h": "c",
+      "app.h": "c",
+      "bll_fsm.h": "c",
+      "funcmodlay.h": "c",
+      "fml_daq.h": "c",
+      "my_timer.h": "c",
+      "bll_alarm.h": "c",
+      "mersm_lowleak.h": "c",
+      "fml_delaytime.h": "c",
+      "fml_extproporv.h": "c",
+      "bll_mainfsm.h": "c",
+      "fml_extsignal.h": "c",
+      "mersm_leak.h": "c",
+      "mersm_test.h": "c",
+      "fml_extvalve.h": "c",
+      "led.h": "c"
+    }
+  }
+}

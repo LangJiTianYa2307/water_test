@@ -1,0 +1,48 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Keil_v5\\ARM\\ARMCLANG\\include",
+                "C:\\Keil\\ARM\\ARMCLANG\\include",
+                "E:\\panhan_program\\include",
+                "${workspaceFolder}/Drivers/CMSIS/Device/ST/STM32F7xx/Include",
+                "${workspaceFolder}/Drivers/CMSIS/Include",
+                "${workspaceFolder}/Drivers/STM32F7xx_HAL_Driver/Inc",
+                "${workspaceFolder}/Drivers/STM32F7xx_HAL_Driver/Inc/Legacy",
+                "${workspaceFolder}/Inc",
+                "${workspaceFolder}/Middlewares/FreeRTOS/include",
+                "${workspaceFolder}/Middlewares/FreeRTOS/portable/RVDS/ARM_CM7/r0p1",
+                "${workspaceFolder}/Src/ApplicationLayer",
+                "${workspaceFolder}/Src/BusinessLogicLayer",
+                "${workspaceFolder}/Src/FunctionMoudleLayer",
+                "${workspaceFolder}/Src/HardwareProxy",
+                "${workspaceFolder}/Src/System",
+                "${workspaceFolder}/Middlewares/LWIP/lwip-1.4.1/src/include/ipv4",
+                "${workspaceFolder}/Middlewares/LWIP/lwip-1.4.1/src/include/lwip",
+                "${workspaceFolder}/Middlewares/LWIP/lwip-1.4.1/src/include/netif",
+                "${workspaceFolder}/Middlewares/LWIP/lwip-1.4.1/src/include",
+                "${workspaceFolder}/Middlewares/LWIP",
+                "${workspaceFolder}/Middlewares/modbus/include",
+                "${workspaceFolder}/Middlewares/modbus/port",
+                "${workspaceFolder}/Middlewares/modbus/tcp",
+                "${workspaceFolder}/Middlewares/modbus/ascii",
+                "${workspaceFolder}/Middlewares/modbus/rtu"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "STM32F767xx",
+                "USE_HAL_DRIVER",
+                "ARM_MATH_MATRIX_CHECK",
+                "ARM_MATH_ROUNDING",
+                "__FPU_PRESENT=1",
+                "__GNUC__",
+                "OS_CRITICAL_METHOD"
+            ],
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
